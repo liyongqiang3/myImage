@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  MyImage
+//
+//  Created by liyongqiang on 16/4/25.
+//  Copyright © 2016年 liyongqiang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry/Masonry.h>
+#import "SVPullToRefresh.h"
+#import "TMCache.h"
+
+
+#endif /* PrefixHeader_pch */
